@@ -1,0 +1,64 @@
+{
+  "name": "Pharmacolibrary",
+  "format": "1.0.0",
+  "dependencies": [],
+  "content": [
+    {
+      "relpath": "Pharmacolibrary",
+      "contentType": "MODELICA",
+      "name": "Pharmacolibrary",
+      "defaultDisabled": false,
+      "id": "2011aa78bd894cecbb76d7fd51f0f6f1"
+    },
+    {
+      "relpath": "scripts/DrugData_withATC.mo",
+      "contentType": "MODELICA",
+      "name": "DrugData_withATC",
+      "defaultDisabled": false,
+      "id": "9e409cf43e6a4948a0e035758f62f5c5"
+    },
+    {
+      "relpath": "Resources/Views",
+      "contentType": "VIEWS",
+      "defaultDisabled": false,
+      "id": "4a2dca8d167f4ab581551b27a994b054"
+    },
+    {
+      "relpath": "Resources/Favorites",
+      "contentType": "FAVORITES",
+      "defaultDisabled": false,
+      "id": "90da74f3784a4c809c4f6ab622d83edb"
+    },
+    {
+      "relpath": "Resources/CustomFunctions",
+      "contentType": "CUSTOM_FUNCTIONS",
+      "defaultDisabled": false,
+      "id": "d8327747812f4e349d2995b2c75ba259"
+    },
+    {
+      "relpath": "Resources/Custom",
+      "contentType": "GENERIC",
+      "defaultDisabled": false,
+      "id": "c97d1817a9504193bbc6ba73e192cb88"
+    },
+    {
+      "relpath": "ReferenceResults",
+      "contentType": "REFERENCE_RESULTS",
+      "defaultDisabled": false,
+      "id": "fb1870193a9a4e90a43857253fb52bc1"
+    },
+    {
+      "relpath": "Resources/ExperimentDefinitions",
+      "contentType": "EXPERIMENT_DEFINITIONS",
+      "defaultDisabled": false,
+      "id": "28bdaa3ec97b46a2ba64e63f95555a3b"
+    },
+    {
+      "relpath": "sim",
+      "contentType": "GENERIC",
+      "defaultDisabled": true,
+      "id": "21a4cab0404b409f8650cc68b83a0412"
+    }
+  ],
+  "executionOptions": []
+}
