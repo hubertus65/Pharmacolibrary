@@ -11,13 +11,6 @@
       "id": "2011aa78bd894cecbb76d7fd51f0f6f1"
     },
     {
-      "relpath": "scripts/DrugData_withATC.mo",
-      "contentType": "MODELICA",
-      "name": "DrugData_withATC",
-      "defaultDisabled": false,
-      "id": "9e409cf43e6a4948a0e035758f62f5c5"
-    },
-    {
       "relpath": "Resources/Views",
       "contentType": "VIEWS",
       "defaultDisabled": false,
